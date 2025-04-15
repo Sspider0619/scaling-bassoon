@@ -10,9 +10,11 @@ On Moto phones, Mobile Data is hidden inside the "Internet" panel.
 
 The position of the toggle is dynamic. It changes based on:
 
-Whether you're connected to wifi.
-
 How many WiFi networks are around.
+
+whether you are connected/disconnected from wifi.
+
+The position on toggle is never the same.
 
 Random UI element spacing on different occasions.
 
